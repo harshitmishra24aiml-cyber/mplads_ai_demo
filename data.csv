@@ -1,0 +1,21 @@
+project_id,work_name,category,district,sanctioned_amount,expenditure,progress_percent,days_elapsed,planned_days,vendor_id,latitude,longitude
+MPLAD-001,Community Hall,Building,District A,2000000,1800000,35,240,180,V001,12.9716,77.5946
+MPLAD-002,Rural Road,Infrastructure,District A,1500000,1200000,90,150,180,V002,12.9816,77.6046
+MPLAD-003,Water Facility,Water,District B,1800000,1650000,20,260,180,V003,13.0016,77.6146
+MPLAD-004,School Repair,Education,District B,900000,600000,75,100,150,V004,13.0216,77.6246
+MPLAD-005,Street Lighting,Infrastructure,District C,700000,690000,25,220,120,V005,13.0316,77.6346
+MPLAD-006,Health Centre,Health,District C,2500000,1100000,55,120,240,V006,13.0416,77.6446
+MPLAD-007,Drainage Work,Infrastructure,District A,1200000,1150000,30,210,150,V007,13.0516,77.6546
+MPLAD-008,Library Building,Education,District B,1600000,700000,65,140,210,V008,13.0616,77.6646
+MPLAD-009,Community Toilet,Sanitation,District C,500000,450000,85,90,120,V009,13.0716,77.6746
+MPLAD-010,Bus Shelter,Infrastructure,District A,800000,780000,95,100,120,V010,13.0816,77.6846
+MPLAD-011,Anganwadi,Education,District B,1100000,1050000,15,190,150,V011,13.0916,77.6946
+MPLAD-012,Water Pipeline,Water,District C,2100000,2050000,40,230,180,V003,13.1016,77.7046
+MPLAD-013,Market Shed,Building,District A,1300000,600000,70,130,180,V012,13.1116,77.7146
+MPLAD-014,Public Park,Environment,District B,1000000,950000,60,160,180,V013,13.1216,77.7246
+MPLAD-015,Footpath,Infrastructure,District C,600000,580000,10,180,90,V005,13.1316,77.7346
+MPLAD-016,Primary Health Unit,Health,District A,2200000,1000000,50,110,240,V014,13.1416,77.7446
+MPLAD-017,Computer Lab,Education,District B,1400000,1350000,92,130,180,V015,13.1516,77.7546
+MPLAD-018,Bus Stand,Infrastructure,District C,3000000,2900000,22,280,240,V016,13.1616,77.7646
+MPLAD-019,Drinking Water Point,Water,District A,400000,350000,88,80,100,V017,13.1716,77.7746
+MPLAD-020,Multipurpose Hall,Building,District B,2400000,2300000,28,250,210,V001,13.1816,77.7846
