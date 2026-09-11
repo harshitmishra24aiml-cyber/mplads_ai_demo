@@ -1,3 +1,36 @@
+# MPLADS AI Demo
+
+AI-powered system for detecting anomalies, fraud indicators, and inefficiencies in MPLADS project implementation.
+
+## Live Demo
+
+🔗 [Open Live Application](https://mplads-ai-demo.onrender.com)
+
+## Features
+
+- Upload project CSV files
+- Rule-based anomaly detection
+- Isolation Forest-based anomaly detection
+- Risk scoring
+- High, Medium, and Low risk classification
+- Explainable reasons for flagged projects
+- Authority monitoring dashboard
+
+## Team
+
+**Team Stellaris**
+
+
+
+
+
+
+
+
+
+
+
+
 # MPLADS AI Risk Monitor — SIH PS 26102
 
 A deployment-ready prototype for detecting anomalies, inefficiencies, and potential risk patterns in MPLADS project implementation. It combines rule-based checks with Isolation Forest and presents explainable risk scores through a browser dashboard.
